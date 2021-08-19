@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "294102901642",
+    "firebase_url": "https://sw-temperatura-default-rtdb.firebaseio.com",
+    "project_id": "sw-temperatura",
+    "storage_bucket": "sw-temperatura.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294102901642:android:dc8f80588f7ddb76301e73",
+        "android_client_info": {
+          "package_name": "com.example.sw1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294102901642-ff98411pskqtvnkg1dafe0p70oe0u0ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTrY-Fm7r76678nXwJue3k7O_vJOFLiKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294102901642-ff98411pskqtvnkg1dafe0p70oe0u0ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
